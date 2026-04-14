@@ -1,0 +1,43 @@
+Exercício 1 
+Suponha que, no seu computador, em alguma pasta , 
+há um arquivo chamado frase.py.
+
+Quais comandos você precisa utilizar para descobrir
+onde você está e como navegar dentro das pastas 
+a fim de executar o codigo em frase.py?
+
+R: Primeiro, no terminal você precisa dar o comando
+"pwd", ele mostra em que pasta você se encontra, e 
+para navegar dentro das pastas utiliza-se o comando
+"cd" + "nome da pasta", ou "cd" + "..", use o "ls", para
+ver o conteúdo dentro da pasta onde você está, e para
+executar o codigo, no terminal escreva "python" + "nome do arquivo".
+
+-------------------------------------------------------------------------------------
+
+Exercício 2
+Crie uma nova pasta (dentro da sua pasta atual) chamada aulas-python,
+entre nela e crie um arquivo de texto chamado teste.py. Esse arquivo deve
+ser um código simples apresentando a frase "Um curso de python". Execute esse 
+código. 
+
+R: Para criar a pasta pelo terminal, o comando é, "mkdir" + "nome da pasta", 
+para entrar na pasta, "cd" + "nome da pasta", e para criar o arquivo dentro da pasta, é
+"ni" + "nome do arquivo". Dentro do arquivo, para que apresente esta frase, você escreve,
+"print("frase")". E para executar o código no terminal, "python" + "nome do arquivo". 
+
+-------------------------------------------------------------------------------------
+
+Exercício 3
+De dentro da pasta aulas-python, volte para a "pasta pai" dela, e nessa pasta pai, crie um 
+arquivo python chamado estado.py.
+
+Neste arquivo estado.py, escreva um código python que exiba na tela o nome do estado de onde 
+você é. Execute o código. 
+
+R: Para voltar a pasta pai, eu escrevi no terminal, "cd" + "..", pois como é uma pasta anterior, 
+este comando já basta. E reforçando o que eu já tinha feito, para criar um arquivo dentro de uma pasta,
+é "ni" + "nome do arquivo". Para que exiba a frase de que estado eu sou no arquivo python, eu escrevi,
+"print("Eu sou do estado de São Paulo")". 
+
+
