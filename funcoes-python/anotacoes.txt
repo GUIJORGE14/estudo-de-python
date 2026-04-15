@@ -22,7 +22,7 @@ def NOME_FUNCAO():
     comando_2   
     comando_3
 
-Com parâmetros, com retorno
+Com parâmetros, sem retorno
 def NOME_FUNCAO(PARAM_1, PARAM_2):
     comando_1
     comando_2
